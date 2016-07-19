@@ -1,0 +1,105 @@
+
+Begin_Cell("Ctl_tx90.cnf");
+
+     Begin_Controller("Ctl_tx90", /* traj */ 0.020000, /* servo */ 0.010000, /* queue */ 50);
+
+          DEVICE_obj = Begin_Device("obj", /* nb joints */ 6, /* nb dofs */ 6,
+             /* base */Create_Transf( 1.000000,0.000000,0.000000,0.000000,
+                            0.000000,1.000000,0.000000,0.000000,
+                            0.000000,0.000000,1.000000,0.000000),
+             /* wrist */Create_Transf( 1.000000,0.000000,0.000000,0.000000,
+                            0.000000,1.000000,0.000000,0.000000,
+                            0.000000,0.000000,1.000000,0.100000));
+
+               Define_Joint(/* type */ REVOLUTE,
+                  /* a */ 0.000000000000, /* d */ 0.000000000000,
+                  /* t */ 0.000000000000, /* r */ 0.000000000000,
+                  /* max */ 1000.000000, /* min */ -1000.000000);
+
+               Define_Joint(/* type */ REVOLUTE,
+                  /* a */ 1.570796326795, /* d */ -0.049999000000,
+                  /* t */ 1.570798679742, /* r */ 0.000000000000,
+                  /* max */ 1000.000000, /* min */ -1000.000000);
+
+               Define_Joint(/* type */ REVOLUTE,
+                  /* a */ 0.000000000000, /* d */ 0.424999000001,
+                  /* t */ 1.570793973848, /* r */ 0.050000000000,
+                  /* max */ 1000.000000, /* min */ -1000.000000);
+
+               Define_Joint(/* type */ REVOLUTE,
+                  /* a */ 1.570796326795, /* d */ 0.000000000000,
+                  /* t */ 3.141592653590, /* r */ 0.425000000000,
+                  /* max */ 1000.000000, /* min */ -1000.000000);
+
+               Define_Joint(/* type */ REVOLUTE,
+                  /* a */ 1.570796326795, /* d */ 0.000000000000,
+                  /* t */ 3.141592653590, /* r */ 0.000003000000,
+                  /* max */ 1000.000000, /* min */ -1000.000000);
+
+               Define_Joint(/* type */ REVOLUTE,
+                  /* a */ 1.570796326795, /* d */ -0.000003000000,
+                  /* t */ 0.000000000000, /* r */ 0.000000000000,
+                  /* max */ 1000.000000, /* min */ -1000.000000);
+
+               Define_Dof_Unit(/* max */ 62.831853, /* min */ -62.831853,
+                  /* ini */ 0.000000, /* spd */ 62.831853,
+                  /* acc */ 3141.592650, /* deccel */ 3141.592650, /* track */ 0.010000, /* unit */ 1);
+
+               Define_Dof_Unit(/* max */ 62.831853, /* min */ -62.831853,
+                  /* ini */ 0.000000, /* spd */ 62.831853,
+                  /* acc */ 3141.592650, /* deccel */ 3141.592650, /* track */ 0.010000, /* unit */ 1);
+
+               Define_Dof_Unit(/* max */ 62.831853, /* min */ -62.831853,
+                  /* ini */ 0.000000, /* spd */ 62.831853,
+                  /* acc */ 3141.592650, /* deccel */ 3141.592650, /* track */ 0.010000, /* unit */ 1);
+
+               Define_Dof_Unit(/* max */ 62.831853, /* min */ -62.831853,
+                  /* ini */ 0.000000, /* spd */ 62.831853,
+                  /* acc */ 3141.592650, /* deccel */ 3141.592650, /* track */ 0.010000, /* unit */ 1);
+
+               Define_Dof_Unit(/* max */ 62.831853, /* min */ -62.831853,
+                  /* ini */ 0.000000, /* spd */ 62.831853,
+                  /* acc */ 3141.592650, /* deccel */ 3141.592650, /* track */ 0.010000, /* unit */ 1);
+
+               Define_Dof_Unit(/* max */ 62.831853, /* min */ -62.831853,
+                  /* ini */ 0.000000, /* spd */ 62.831853,
+                  /* acc */ 3141.592650, /* deccel */ 3141.592650, /* track */ 0.010000, /* unit */ 1);
+
+               Define_Cartesian(/* trl spd */ 1.000000, /*  trl ac */ 50.000000,
+                  /* trl dec */ 50.000000, /* trl track */ 0.010000,
+                  /* rot spd */ 1.000000, /* rot ac */ 50.000000,
+                  /* rot dec */ 50.000000, /* rot track */ 0.010000);
+
+          End_Device();
+
+     End_Controller();
+
+     FRAME_obj = Define_Cell_Frame("obj", 
+          Create_Transf( -1.000000,0.000000,0.000000,0.000000,
+                         0.000000,-1.000000,0.000000,0.000000,
+                         0.000000,0.000000,1.000000,0.478001));
+
+     Define_Device_Attachment(/* device */ DEVICE_obj, /* to frame */ FRAME_obj);
+
+     FRAME_Base = Define_Object_Frame("Base", FRAME_obj,
+          Create_Transf( 1.000000,0.000000,0.000000,0.000000,
+                         0.000000,1.000000,0.000000,0.000000,
+                         0.000000,0.000000,1.000000,0.000000));
+
+     Define_Object_Attachment(/* object */ A_NIL, /* to frame */ FRAME_Base);
+
+     FRAME_Flange = Define_Device_Frame("Flange", DEVICE_obj,
+          Create_Transf( 1.000000,0.000000,0.000000,0.000000,
+                         0.000000,1.000000,0.000000,0.000000,
+                         0.000000,0.000000,1.000000,0.000000));
+
+     Define_Object_Attachment(/* object */ A_NIL, /* to frame */ FRAME_Flange);
+
+     FRAME_System = Define_Cell_Frame("System", 
+          Create_Transf( 1.000000,0.000000,0.000000,0.000000,
+                         0.000000,1.000000,0.000000,0.000000,
+                         0.000000,0.000000,1.000000,0.000000));
+
+     Define_Object_Attachment(/* object */ A_NIL, /* to frame */ FRAME_System);
+
+End_Cell();

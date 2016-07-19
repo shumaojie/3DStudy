@@ -1,0 +1,20 @@
+C:\Users\Yanjie\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.dll
+C:\Users\Yanjie\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.pdb
+C:\Users\Yanjie\Desktop\ReadSTL\ReadSTL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanjie\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.dll
+C:\Users\Yanjie\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.pdb
+C:\Documents and Settings\yye\Desktop\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.dll
+C:\Documents and Settings\yye\Desktop\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.pdb
+C:\Documents and Settings\yye\Desktop\Desktop\ReadSTL\ReadSTL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yye\Desktop\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.dll
+C:\Documents and Settings\yye\Desktop\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.pdb
+C:\Users\Yanjie\Desktop\Desktop\Desktop\ReadSTL\ReadSTL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanjie\Desktop\Desktop\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.dll
+C:\Users\Yanjie\Desktop\Desktop\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.dll
+C:\Users\Yanjie\Desktop\Desktop\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.pdb
+C:\Users\Yanjie\Desktop\Desktop\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.pdb
+D:\yye\New Folder\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.dll
+D:\yye\New Folder\Desktop\ReadSTL\ReadSTL\bin\Debug\ReadSTL.pdb
+D:\yye\New Folder\Desktop\ReadSTL\ReadSTL\obj\Debug\ResolveAssemblyReference.cache
+D:\yye\New Folder\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.dll
+D:\yye\New Folder\Desktop\ReadSTL\ReadSTL\obj\Debug\ReadSTL.pdb

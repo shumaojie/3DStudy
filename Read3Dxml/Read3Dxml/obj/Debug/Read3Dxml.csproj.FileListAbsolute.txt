@@ -1,0 +1,10 @@
+C:\Documents and Settings\yye\Desktop\Read3Dxml\Read3Dxml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yye\Desktop\Read3Dxml\Read3Dxml\bin\Debug\Read3Dxml.dll
+C:\Documents and Settings\yye\Desktop\Read3Dxml\Read3Dxml\bin\Debug\Read3Dxml.pdb
+C:\Documents and Settings\yye\Desktop\Read3Dxml\Read3Dxml\obj\Debug\Read3Dxml.dll
+C:\Documents and Settings\yye\Desktop\Read3Dxml\Read3Dxml\obj\Debug\Read3Dxml.pdb
+D:\Yanjie\学习\Read3Dxml\Read3Dxml\bin\Debug\Read3Dxml.dll
+D:\Yanjie\学习\Read3Dxml\Read3Dxml\bin\Debug\Read3Dxml.pdb
+D:\Yanjie\学习\Read3Dxml\Read3Dxml\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanjie\学习\Read3Dxml\Read3Dxml\obj\Debug\Read3Dxml.dll
+D:\Yanjie\学习\Read3Dxml\Read3Dxml\obj\Debug\Read3Dxml.pdb

@@ -1,0 +1,45 @@
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Properties.Resources.resources
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\Staubli3D.csproj.GenerateResource.Cache
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\bin\Debug\Staubli3D.exe
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\bin\Debug\Staubli3D.pdb
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\Staubli3D.exe
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\Staubli3D.pdb
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form1.resources
+C:\Users\Yanjie\Desktop\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form2.resources
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.exe
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.pdb
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\bin\Debug\Staubli3D.exe
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\bin\Debug\Staubli3D.pdb
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form1.resources
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form2.resources
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.csproj.GenerateResource.Cache
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.exe
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.pdb
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\bin\Debug\Staubli3D.exe
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\bin\Debug\Staubli3D.pdb
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form1.resources
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form2.resources
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Properties.Resources.resources
+D:\Yanjie\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.csproj.GenerateResource.Cache
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.exe
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.pdb
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\bin\Debug\Staubli3D.exe
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\bin\Debug\Staubli3D.pdb
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form1.resources
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form2.resources
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Properties.Resources.resources
+D:\Yanjie\编程\Staubli3D\Staubli3D\Staubli3D\obj\Debug\Staubli3D.csproj.GenerateResource.Cache
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\Staubli3D.exe
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\Staubli3D.pdb
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\bin\Debug\Staubli3D.exe
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\bin\Debug\Staubli3D.pdb
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form1.resources
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Form2.resources
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\Staubli3D.Properties.Resources.resources
+D:\Yanjie\3D 仿真\3Dstudio二次开发\Staubli3D\Staubli3D\obj\Debug\Staubli3D.csproj.GenerateResource.Cache
